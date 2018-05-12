@@ -1,0 +1,26 @@
+_repo: Eyeshine_30504
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30504-h/images/coverpage1.jpg
+creator:
+  author:
+    agent_name: Brown, Paul Cameron
+    alias: Browne, Paul Cameron
+    birthdate: 1948
+    gutenberg_agent_id: '34138'
+    url: http://www.gutenberg.org/2009/agents/34138
+description: ''
+gutenberg_issued: '2009-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30504'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Eyeshine
+url: http://www.gutenberg.org/ebooks/30504
